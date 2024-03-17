@@ -1,1 +1,7 @@
+A simple CLI-based interactive guessing game written in TypeScript language.
 
+Since the module has the modules 'Inquirer' and 'Chalk' in it, in order to run the code properly, it is necessary to install the inquirer module and chalk module.
+To install these packages, write the following commands into your command prompt.
+
+1. npm i inquirer chalk
+2. npm i --save-dev @types/inquirer
