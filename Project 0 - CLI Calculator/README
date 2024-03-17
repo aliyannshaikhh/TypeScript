@@ -1,1 +1,7 @@
-A simple CLI based interactive calculator written in TypeScript language.
+A simple CLI-based interactive calculator written in TypeScript language.
+
+Since the Calculator has the module 'Inquirer' in it, in order to run the code properly, it is necessary to install inquirer module.
+To install the 'inquirer' package, write the following commands into your command prompt.
+
+1. npm i inquirer
+2. npm i --save-dev @types/inquirer
